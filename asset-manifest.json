@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yefcode-react/static/css/main.e6a8dcb9.chunk.css",
+    "main.js": "/yefcode-react/static/js/main.1b66b6b1.chunk.js",
+    "main.js.map": "/yefcode-react/static/js/main.1b66b6b1.chunk.js.map",
+    "runtime-main.js": "/yefcode-react/static/js/runtime-main.497041aa.js",
+    "runtime-main.js.map": "/yefcode-react/static/js/runtime-main.497041aa.js.map",
+    "static/js/2.644bc2f0.chunk.js": "/yefcode-react/static/js/2.644bc2f0.chunk.js",
+    "static/js/2.644bc2f0.chunk.js.map": "/yefcode-react/static/js/2.644bc2f0.chunk.js.map",
+    "static/js/3.65907c00.chunk.js": "/yefcode-react/static/js/3.65907c00.chunk.js",
+    "static/js/3.65907c00.chunk.js.map": "/yefcode-react/static/js/3.65907c00.chunk.js.map",
+    "index.html": "/yefcode-react/index.html",
+    "static/css/main.e6a8dcb9.chunk.css.map": "/yefcode-react/static/css/main.e6a8dcb9.chunk.css.map",
+    "static/js/2.644bc2f0.chunk.js.LICENSE.txt": "/yefcode-react/static/js/2.644bc2f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.497041aa.js",
+    "static/js/2.644bc2f0.chunk.js",
+    "static/css/main.e6a8dcb9.chunk.css",
+    "static/js/main.1b66b6b1.chunk.js"
+  ]
+}
